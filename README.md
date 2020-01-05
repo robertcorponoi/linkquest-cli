@@ -1,8 +1,10 @@
-<div align="center">
+<p align="center">
+  <img width="244" height="245" src="https://github.com/robertcorponoi/graphics/blob/master/linkquest/linkquest-logo.png?raw=true">
+</p>
 
-# Linkquest CLI
+<h1 align="center">Linkquest CLI</h1>
 
-Linkquest CLI is the CLI version of Linkquest, which provides you with an easy way to get all of the valid and invalid links on a single page or an entire site through the command line.
+<p align="center">Linkquest CLI is the CLI version of Linkquest, which provides you with an easy way to get all of the valid and invalid links on a single page or an entire site through the command line.</p>
 
 </div>
 

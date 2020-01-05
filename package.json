@@ -1,6 +1,6 @@
 {
   "name": "linkquest-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linkquest CLI is the CLI version of Linkquest, which provides you with an easy way to get all of the valid and invalid links on a single page or an entire site through the command line.",
   "main": "index.js",
   "bin": {
